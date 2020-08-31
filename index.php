@@ -1,5 +1,5 @@
 <?php
 
-echo "Oi, lindão. Tá aprendendo, né? kkkk";
+echo "Oi, lindão. Já aprendeu?";
 
 ?>
